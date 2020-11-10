@@ -1,6 +1,0 @@
-more great stuff here
-adding more stuff from locally
-we are clonning
-remote to locallymaking some changes
-commiting the changes
-pushing it back to
